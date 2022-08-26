@@ -1,0 +1,22 @@
+{
+  "name": "disciplina-full-stack",
+  "version": "1.0.0",
+  "description": "Tarefas realizadas para disciplina de programação Full Stack, utilizando NodeJs, React, API-Rest.",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasCouto/Disciplina-Full-Stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonasCouto/Disciplina-Full-Stack/issues"
+  },
+  "homepage": "https://github.com/JonasCouto/Disciplina-Full-Stack#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
